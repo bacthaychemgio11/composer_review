@@ -2,7 +2,6 @@
     "name": "bacthaychemgio11/composerreview",
     "description": "Just try to review 3rd week",
     "require": {
-	"duc622/backend-2-week3": "1.0.*"
-	"quocviet0706/web2": "1.0.*"
+	"duc622/backend-2-week3": "*"
     }
 }
